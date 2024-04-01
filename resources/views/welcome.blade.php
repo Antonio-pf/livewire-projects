@@ -1,5 +1,5 @@
 <x-app-layout>
 
     <livewire:counter/>
-    <livewire:calculator/>
+{{--    <livewire:calculator/>--}}
 </x-app-layout>

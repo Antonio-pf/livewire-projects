@@ -10,7 +10,7 @@ Route::get('/', function () {
 //Route::get('/calculator', function () {
 //    return view('livewire.calculator', [
 //
-//        'component' => \App\Http\Livewire\Calculator::class
+//        'component' => Calculator::class
 //    ]);
 //});
 //Route::get('/calculator', \App\Http\Livewire\Calculator::class)->name('calculator');
